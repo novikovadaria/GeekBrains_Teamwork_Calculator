@@ -25,3 +25,28 @@ _Состав команды:_
 Новикова Дарья - модуль log, README
 
 Артём Лапшин - модуль main
+___________________________________________________________________________________________________________________
+## Team task for the seminar 7
+_Project Description:_
+Create a calculator for working with rational and complex numbers, organize a menu by adding a logging system to it.
+
+_Problems of the project:_
+The user enters a mathematical expression in one action and gets an answer. In this case, the values and the result of calculations are also written to a text file log_file.txt to track the processes of the program.
+At the beginning of the work, the user sees an invitation to enter, after - the output of the solution of the arithmetic expression.
+
+_Project Goals:_
+
+1. Practice writing main, view and logging systems, learn how to reduce the script in the controller.
+2. Practice working with input, error handling.
+3. Write beautiful and practical code.
+4. Take care of the user (a beautiful input prompt and the same neat output)
+5. Work in a team, take on responsibilities, meet deadlines.
+6. Improve the skills of using github in collaborative development.
+
+_Participants:_
+
+Natalia Zamyshlyaeva - team leader, author of the operations, controller modules.
+
+Daria Novikova - log module, README
+
+Artem Lapshin - main module
